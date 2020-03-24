@@ -13,3 +13,7 @@ Here is a current version of my [CV](https://www.dropbox.com/s/blgrf1tyunhwmha/C
 
 ## Working Papers
 
+*Coalition cabinets, radical right parties and government policy: Why coalition governments go tough on immigration* (With Heike Klüver)
+
+
+*Do Politicians Discriminate Against Constituents with an Immigration Background? Field Experimental Evidence from Germany* (With Jeyhun Alizade)
