@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Fabio Ellger"
   avatar : "/assets/images/Foto_Ellger.jpg"
-  bio    : "*PhD Student in Political Science at [HU Berlin](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comparative-political-behavior/team/fabio-ellger/fabio-ellger?set_language=en).*"
+  bio    : "PhD Student in Political Science at HU Berlin. Working on Comparative Political Behavior. Interested in Causal Inference."
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
