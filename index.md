@@ -22,6 +22,6 @@ Here is a current version of my [CV](https://www.dropbox.com/s/blgrf1tyunhwmha/C
 
 ## Work in Progress
 
-*The Political Effects of Local Newspaper Decline* (Hanno Hilbig, Sascha Riaz, Philipp Tillmann)
+*The Political Effects of Local Newspaper Decline* (With Hanno Hilbig, Sascha Riaz and Philipp Tillmann)
 
-*Policy-making in coalition governments: Intra-cabinet conflict, coalition agreements and legislative activity* (Anthea Alberto, Heike Klüver)
+*Policy-making in coalition governments: Intra-cabinet conflict, coalition agreements and legislative activity* (With Anthea Alberto and Heike Klüver)
