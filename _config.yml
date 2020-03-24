@@ -31,6 +31,15 @@ paginate: 0 # amount of posts to show
 # paginate_path: /about/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+
+# Analytics
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-161691340-1"
+    anonymize_ip: false # default
+
+
 ##
 # IF Fabio wants to add pages later, comment in here:
 #include:
