@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Fabio Ellger"
   avatar : "/assets/images/Foto_Ellger.jpg"
-  bio    : "PhD Student in Political Science at HU Berlin working on Comparative Political Behavior."
+  bio    : "PhD Student in Political Science at HU Berlin, working on Comparative Political Behavior."
   links:
     - label: "Curriculum Vitae"
       icon: "Curriculum Vitae"
