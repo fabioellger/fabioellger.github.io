@@ -1,8 +1,8 @@
-main:
-  - title: "CV"
-    url: /cv/
-  - title: "Research"
-    url: /research/
+#main:
+ # - title: "CV"
+  #  url: /cv/
+  #- title: "Research"
+  #  url: /research/
 #  - title: "Tags"
 #    url: /tags/
 #  - title: "About"
