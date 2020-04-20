@@ -70,7 +70,7 @@ author:
   name   : "Fabio Ellger"
   avatar : "/assets/images/Foto_Ellger.jpg"
   bio    : "Test Student <br/> in Political Science <br/> [Department of Social Sciences]{https://www.sowi.hu-berlin.de/en/index.html?set_language=en} HU Berlin"
-  bio    : "HU Berlin"
+  bio    : "HU \ Berlin"
   links:
     - label: "Curriculum Vitae"
       icon: "Curriculum Vitae"
