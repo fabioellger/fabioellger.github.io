@@ -71,7 +71,7 @@ author:
   avatar : "/assets/images/Foto_Ellger.jpg"
   bio    : "PhD Student in Political Science at HU Berlin."
   links:
-    - label: " Curriculum Vitae"
+    - label: "Curriculum Vitae"
       icon: "fab fa-fw fa-file-text-o"
       url: "https://www.dropbox.com/s/98esjxiqbu577gx/CV_Ellger.pdf?dl=0"
     - label: "Twitter"
