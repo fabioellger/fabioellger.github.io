@@ -72,7 +72,7 @@ author:
   bio    : "PhD Student in Political Science at HU Berlin."
   links:
     - label: "Curriculum Vitae"
-      icon: "Curriculum Vitae"
+      icon: "fa fa-file-text"
       url: "https://www.dropbox.com/s/98esjxiqbu577gx/CV_Ellger.pdf?dl=0"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
