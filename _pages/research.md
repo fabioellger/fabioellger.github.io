@@ -4,14 +4,11 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
-
 ## Working Papers
 
 *The Mobilizing Effect of Affective and Spatial Polarization. Evidence from Europe*
 
 *Coalition cabinets, radical right parties and government policy: Why coalition governments go tough on immigration* (With Heike Klüver)
-
 
 *Do Politicians Discriminate Against Constituents with an Immigration Background? Field Experimental Evidence from Germany* (With Jeyhun Alizade)
 

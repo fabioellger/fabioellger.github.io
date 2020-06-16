@@ -4,12 +4,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching
-
 ### Summer Term 2020
 
 Democratic Responsiveness and Representation: Introduction to Institutional and Behavioral Approaches. Humboldt University Berlin. Syllabus on [Moodle](https://moodle.hu-berlin.de/course/view.php?id=93605)
-
 
 ### Winter Term 2019
 
