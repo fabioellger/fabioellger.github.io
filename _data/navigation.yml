@@ -1,9 +1,7 @@
-#main:
- # - title: "CV"
-  #  url: /cv/
-  #- title: "Research"
-  #  url: /research/
-#  - title: "Tags"
-#    url: /tags/
+main:
+ - title: "Research"
+   url: /research/
+  - title: "Teaching"
+    url: /teaching/
 #  - title: "About"
 #    url: /about/
