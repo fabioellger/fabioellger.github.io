@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers
+### Working Papers
 
 *The Mobilizing Effect of Affective and Spatial Polarization. Evidence from Europe*
 
@@ -12,7 +12,7 @@ author_profile: true
 
 *Do Politicians Discriminate Against Constituents with an Immigration Background? Field Experimental Evidence from Germany* (With Jeyhun Alizade)
 
-## Work in Progress
+### Work in Progress
 
 *The Political Effects of Local Newspaper Decline* (With Hanno Hilbig, Sascha Riaz and Philipp Tillmann)
 
