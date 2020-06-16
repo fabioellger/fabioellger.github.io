@@ -69,11 +69,11 @@ plugins:
 author:
   name   : "Fabio Ellger"
   avatar : "/assets/images/Foto_Ellger.jpg"
-  bio    : "PhD Student in Political Science. Department of Social Sciences at HU Berlin."
+  bio    : "PhD Student in Political Science at HU Berlin."
   links:
     - label: "Curriculum Vitae"
       icon: "Curriculum Vitae"
-      url: "https://www.dropbox.com/s/blgrf1tyunhwmha/CV_Ellger.pdf?dl=0io"
+      url: "https://www.dropbox.com/s/98esjxiqbu577gx/CV_Ellger.pdf?dl=0"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/fabioellger"
