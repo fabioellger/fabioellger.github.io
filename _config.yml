@@ -71,7 +71,7 @@ author:
   avatar : "/assets/images/Foto_Ellger.jpg"
   bio    : "PhD Student at HU Berlin"
   links:
-    - label: "&lt;Curriculum Vitae"
+    - label: "&nbsp;&lt;Curriculum Vitae&gt;"
       icon: "fab fa fa-file"
       url: "https://www.dropbox.com/s/gkmbesqq079dpeb/CV_Ellger.pdf?dl=0"
     - label: "<Twitter>"
