@@ -10,4 +10,4 @@ Democratic Responsiveness and Representation: Introduction to Institutional and 
 
 ### Winter Term 2019
 
-Statistics 1: Descriptives, Inference, and Regression. Teaching Assistant for Prof. Mark Kayser at Hertie School.
+Statistics 1: Descriptives, Inference, and Regression. Teaching Assistant for Prof. Mark Kayser. Hertie School.
