@@ -10,7 +10,7 @@ author_profile: true
 
 *Coalition cabinets, radical right parties and government policy: Why coalition governments go tough on immigration.* (With Heike Klüver)
 
-*Do Politicians Discriminate Against Constituents with an Immigration Background? Field Experimental Evidence from Germany.[SSRN](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3559396).* (With Jeyhun Alizade)
+*Do Politicians Discriminate Against Constituents with an Immigration Background? Field Experimental Evidence from Germany. [SSRN](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3559396).* (With Jeyhun Alizade)
 
 ### Work in Progress
 
