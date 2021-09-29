@@ -69,7 +69,7 @@ plugins:
 author:
   name   : "Fabio Ellger"
   avatar : "/assets/images/Foto_Ellger.jpg"
-  bio    : "PhD Student at HU Berlin"
+  bio    : "Research Fellow at WZB Democracy"
   links:
     - label: "&nbsp;&lt;Curriculum Vitae&gt;"
       icon: "fab fa fa-file"
