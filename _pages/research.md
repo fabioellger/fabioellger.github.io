@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 ### Publications
-*Do Politicians Discriminate Against Constituents with an Immigration Background? Field Experimental Evidence from Germany.* (With Jeyhun Alizade)
-The Journal of Politics [Just Accepted](https://www.journals.uchicago.edu/doi/10.1086/716293)
-[Preprint](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3559396)
+*Do Politicians Discriminate Against Constituents with an Immigration Background? Field Experimental Evidence from Germany.* (With Jeyhun Alizade).
+The Journal of Politics. [Just Accepted](https://www.journals.uchicago.edu/doi/10.1086/716293).
+[Preprint](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3559396).
    
 
 ### Working Papers
@@ -15,8 +15,6 @@ The Journal of Politics [Just Accepted](https://www.journals.uchicago.edu/doi/10
 *The Mobilizing Effect of Affective and Spatial Polarization. Evidence from Europe.*
 
 *Coalition cabinets, radical right parties and government policy: Why coalition governments go tough on immigration.* (With Heike Klüver)
-
-
 
 *Local Newspaper Decline and Political Polarization.* (With Hanno Hilbig, Sascha Riaz and Philipp Tillmann)
 
