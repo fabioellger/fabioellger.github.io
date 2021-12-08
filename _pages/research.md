@@ -6,7 +6,9 @@ author_profile: true
 
 ### Publications
 *Do Politicians Discriminate Against Constituents with an Immigration Background? Field Experimental Evidence from Germany.* (With Jeyhun Alizade).
-The Journal of Politics. [Just Accepted](https://www.journals.uchicago.edu/doi/10.1086/716293).
+The Journal of Politics. 
+
+&ensp;[Just Accepted](https://www.journals.uchicago.edu/doi/10.1086/716293).
 [Preprint](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3559396).
    
 
