@@ -16,7 +16,7 @@
 title: Fabio Ellger
 email: fabio.ellger@hu-berlin.de
 description: >- # this means to ignore newlines until "baseurl:" Research Fellow at WZB Democracy:
-  fabio.ellger[at]wzb.eu
+  Research Fellow at WZB Democracy  
 twitter_username: fabioellger
 github_username: fabioellger
 minimal_mistakes_skin:  air #contrast
@@ -69,7 +69,8 @@ plugins:
 author:
   name   : "Fabio Ellger"
   avatar : "/assets/images/Foto_Ellger.jpg"
-  bio    : "Research Fellow at WZB Democracy"
+  bio    : "Research Fellow at WZB Democracy
+            fabio.ellger[at]wzb.eu"
   links:
     - label: "&nbsp;&lt;Curriculum Vitae&gt;"
       icon: "fab fa fa-file"
