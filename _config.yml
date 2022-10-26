@@ -72,10 +72,10 @@ author:
   bio    : "Research Fellow at WZB Democracy
             fabio.ellger[at]wzb.eu"
   links:
-    - label: "&nbsp;&lt;Curriculum Vitae&gt;"
+    - label: "[Curriculum Vitae]"
       icon: "fab fa fa-file"
       url: "https://www.fabioellger.com/assets/docs/CV_Ellger.pdf"
-    - label: "&lt;Twitter&gt;"
+    - label: "[Twitter]"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/fabioellger"
     #- label: "GitHub"
