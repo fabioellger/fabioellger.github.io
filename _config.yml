@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Fabio Ellger
-email: fabio.ellger@hu-berlin.de
+email: fabio.ellger@wzb.eu
 description: >- # this means to ignore newlines until "baseurl:" Research Fellow at WZB Democracy:
-  Research Fellow at WZB Democracy  
+  Research Fellow  
 twitter_username: fabioellger
 github_username: fabioellger
 minimal_mistakes_skin:  air #contrast
@@ -67,9 +67,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Fabio Ellger"
+  name   : "Dr. Fabio Ellger"
   avatar : "/assets/images/Foto_Ellger.jpg"
-  bio    : "Research Fellow at WZB Democracy
+  bio    : "Postdoctoral Research Fellow
+            Transformations of Democracy Unit
+            WZB Berlin Social Science Center
             fabio.ellger[at]wzb.eu"
   links:
     - label: "[Curriculum Vitae]"
