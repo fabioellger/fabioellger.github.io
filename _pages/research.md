@@ -13,34 +13,42 @@ The Journal of Politics. <br>
 
 ## Submitted Working Papers
 
+### Conditionally Accepted
+
+*The Mobilizing Effect of Affective and Spatial Polarization. Evidence from Europe.* 
+
+*The electoral consequences of policy-making in coalition governments.* (With Heike Klüver and Anthea Alberto).
+
 ### Revise and Resubmit
 
-*The Mobilizing Effect of Affective and Spatial Polarization. Evidence from Europe.* R&R
+*Local Newspaper Decline and Political Polarization in Multi-Party Systems.* (With Hanno Hilbig, Sascha Riaz and Philipp Tillmann).
 
-
-*Local Newspaper Decline and Political Polarization in Multi-Party Systems.* (With Hanno Hilbig, Sascha Riaz and Philipp Tillmann.) R&R
+*Coalition cabinets, radical right parties and government policy: Why coalition governments go tough on immigration.* (With Heike Klüver).
 
 ### Under Review
 
-*The Electoral Consequences of New Political Actors: Evidence from the German Greens.* (With Tom Arend, Antonio Valentim)
 
-*Coalition cabinets, radical right parties and government policy: Why coalition governments go tough on immigration.* (With Heike Klüver)
+*The Electoral Consequences of New Political Actors: Evidence from the German Greens.* (With Tom Arend, Antonio Valentim).
 
-*The Making and Breaking of Policy Promises in Coalition Government.* (With Heike Klüver, Anthea Alberto)
+*A Peril to Pluralism? How Crimes Against Politicians Undermine Local Democratic Representation.* (With Jeyhun Alizade, Marius Grünewald, Thomas Tichelbäcker)
 
-*Policy-making in coalition governments: Intra-cabinet conflict, coalition agreements and legislative activity.* (With Anthea Alberto and Heike Klüver)
+*The Making and Breaking of Policy Promises in Coalition Government.* (With Heike Klüver, Anthea Alberto).
+
 
 ## Projects in Progress
 
-### Crime and Representation
+
+
+### Political Crime
 
 *Do Covid-19 Restrictions Cause more Crime against Political Representatives?*
 
 *The Political Consequences of Crimes against Politicians. How Politically Motivated Crimes influence Representation and Public Opinion.*
 
-*A Peril to Pluralism? How Crimes Against Politicians Undermine Local Democratic Representation.* (With Jeyhun Alizade, Marius Grünewald, Thomas Tichelbäcker)
 
-### Polarization
+### Polarization and Democratic Representation
 
-*Does the Politicization of Constitutional Courts affect Support for the Rule of Law?* (With Heiko Giebler, Sebastian Hellmeier, Daniel Ziblatt)
+hy did Conservatives Fear Democracy? Evidence from 19th century Parliamentary Debates. (With Daniel Ziblatt, Caterina Chiopris, Brian Rathbun).
+
+*Does the Politicization of Constitutional Courts affect Support for the Rule of Law?* (With Heiko Giebler, Sebastian Hellmeier, Daniel Ziblatt).
 
