@@ -18,7 +18,7 @@ paginate: 0 # amount of posts to show
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-EQP1E228G8" #"UA-161691340-1" # You'll need to update this to the "G-" format tracking ID for Google Analytics 4
+    tracking_id: "UA-161691340-1" # You'll need to update this to the "G-" format tracking ID for Google Analytics 4
     anonymize_ip: false
 
 include:
