@@ -17,6 +17,7 @@ author_profile: true
 *Research & Politics*
 
 #### 2022
+
 [Do Politicians Discriminate Against Constituents with an Immigration Background? Field Experimental Evidence from Germany.](https://www.journals.uchicago.edu/doi/10.1086/716293)
 (With Jeyhun Alizade).
 *The Journal of Politics.* 
@@ -27,7 +28,6 @@ author_profile: true
 *Local Newspaper Decline and Political Polarization in Multi-Party Systems.* (With Hanno Hilbig, Sascha Riaz and Philipp Tillmann).
 
 *Coalition cabinets, radical right parties and government policy: Why coalition governments go tough on immigration.* (With Heike Klüver).
-
 
 *The Electoral Consequences of New Political Actors: Evidence from the German Greens.* (With Tom Arend, Antonio Valentim).
 
