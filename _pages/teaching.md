@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Own Courses:
+## Independent Teaching:
 
 ### Summer Term 2021
 
