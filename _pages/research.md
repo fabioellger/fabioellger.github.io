@@ -6,21 +6,19 @@ author_profile: true
 
 ## Publications
 
-#### 2023
 
 [The Mobilizing Effect of Affective and Spatial Polarization. Evidence from Europe.](https://doi.org/10.1177/00104140231194059)
-*Comparative Political Studies*
+*Comparative Political Studies.* 2023.
 
 
 [The electoral consequences of policy-making in coalition governments.](https://journals.sagepub.com/doi/10.1177/20531680231188266)
 (With Heike Klüver and Anthea Alberto).
-*Research & Politics*
+*Research & Politics.* 2023.
 
-#### 2022
 
 [Do Politicians Discriminate Against Constituents with an Immigration Background? Field Experimental Evidence from Germany.](https://www.journals.uchicago.edu/doi/10.1086/716293)
 (With Jeyhun Alizade).
-*The Journal of Politics.* 
+*The Journal of Politics.* 2022.
    
 
 ## Working Papers (Under Review)
