@@ -16,4 +16,4 @@ For a comprehensive overview of my ongoing projects and previous publications, p
 
  I also enjoy [teaching](/teaching/) classes on political behavior, research design and applied research methods.
 
-A current version of my [CV is available here.](https://www.fabioellger.com/assets/docs/CV_Ellger.pdf)
+A current version of my [CV is available here.](https://www.fabioellger.com/assets/docs/CV_Online_2024.pdf)
