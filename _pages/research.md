@@ -6,6 +6,10 @@ author_profile: true
 
 ## Publications
 
+[Adopting restriction: how coalition governments respond to radical right parties.](https://www.tandfonline.com/doi/full/10.1080/01402382.2024.2341352)
+With Heike Klüver.
+*West European Politics.* 2024.
+
 
 [The Mobilizing Effect of Affective and Spatial Polarization. Evidence from Europe.](https://doi.org/10.1177/00104140231194059)
 *Comparative Political Studies.* 2023.
