@@ -11,9 +11,10 @@ From April to June 2024, I am a Visiting Fellow at [Nuffield College](https://ww
 I am interested in Comparative Politics and Political Behavior, with a focus on challenges to contemporary democracies. 
 My primary research areas cover democratic representation, participation and voter mobilization, as well as societal and electoral polarization. I study the emergence of these phenomena, as well as their implications for policy-making and democratic resilience.  
 
-My work has been published in journals such as the _Journal of Politics_ and _Comparative Political Studies_, and has been accepted for publication in the _British Journal of Political Science_ or _West European Politics_. 
-In my research projects, I employ a range of quantitative analyses, such as field and survey experiments or quasi-experimental designs.
+My work has been published, or is forthcoming, in journals such as the _Journal of Politics_, _Comparative Political Studies_, and _West European Politics_. 
+In my research projects, I employ a broad range of quantitative analyses, such as field and survey experiments, quasi-experimental designs, and quantitative text analyses with large language models.
 For a comprehensive overview of my ongoing projects and previous publications, please visit my [Publications & Research](/research/) page.
+
 
  I also enjoy [teaching](/teaching/) classes on political behavior, research design and applied research methods.
 
