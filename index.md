@@ -5,7 +5,7 @@ author_profile: true
 
 **Welcome,** 
 
-I am Dr. Fabio Ellger, a Postdoctoral Research Fellow at the [Transformations of Democracy Unit](https://www.wzb.eu/en/research/dynamics-of-political-systems/transformations-of-democracy) at WZB Berlin, directed by Daniel Ziblatt. 
+I am a Postdoctoral Research Fellow at the [Transformations of Democracy Unit](https://www.wzb.eu/en/research/dynamics-of-political-systems/transformations-of-democracy) at WZB Berlin, directed by Daniel Ziblatt. 
 From April to June 2024, I am a Visiting Fellow at [Nuffield College](https://www.nuffield.ox.ac.uk/people/profiles/fabio-ellger/), Oxford University. In 2022, I was a Visiting Fellow of the [Center for European Studies](https://ces.fas.harvard.edu/people/fabio-ellger) at Harvard University. Earlier that year, I obtained my doctoral degree at the [Chair of Comparative Political Behavior](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comparative-political-behavior/team/team-comparative-political-behavior) at Humboldt University Berlin and graduated from [DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics/people/Alumni), a joint PhD program of Humboldt University and the Hertie School.
 
 I am interested in Comparative Politics and Political Behavior, with a focus on challenges to contemporary democracies. 
