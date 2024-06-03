@@ -6,7 +6,7 @@ author_profile: true
 
 ## Publications
 
-[Adopting restriction: how coalition governments respond to radical right parties.](https://www.tandfonline.com/doi/full/10.1080/01402382.2024.2341352)
+[Adopting restriction: How coalition governments respond to radical right parties.](https://www.tandfonline.com/doi/full/10.1080/01402382.2024.2341352)
 With Heike Klüver.
 *West European Politics.* 2024.
 
