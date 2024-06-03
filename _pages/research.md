@@ -28,7 +28,6 @@ With Jeyhun Alizade.
 
 *Local Newspaper Decline and Political Polarization in Multi-Party Systems.* With Hanno Hilbig, Sascha Riaz and Philipp Tillmann. Cond. Accepted at the *British Journal of Political Science*. [OSF Preprint](https://osf.io/preprints/nhwxs)
 
-*Coalition cabinets, radical right parties and government policy: Why coalition governments go tough on immigration.* With Heike Klüver. Accepted at *West European Politics*.
 
 ## Working Papers Under Review
 
