@@ -24,9 +24,12 @@ With Heike Klüver and Anthea Alberto.
 With Jeyhun Alizade.
 *The Journal of Politics.* 2022.
    
-## Accepted for Publication
 
-*Local Newspaper Decline and Political Polarization in Multi-Party Systems.* With Hanno Hilbig, Sascha Riaz and Philipp Tillmann. Cond. Accepted at the *British Journal of Political Science*. [OSF Preprint](https://osf.io/preprints/nhwxs)
+[Local Newspaper Decline and Political Polarization – Evidence from a Multi-Party Setting.](https://doi.org/10.1017/S0007123424000243) With Hanno Hilbig, Sascha Riaz and Philipp Tillmann. *British Journal of Political Science*.
+
+
+
+<!-- ## Accepted for Publication -->
 
 
 ## Working Papers Under Review
