@@ -13,22 +13,22 @@ author_profile: true
 (2024) With Hanno Hilbig, Sascha Riaz and Philipp Tillmann. *British Journal of Political Science.* 
 
 [Adopting restriction: How coalition governments respond to radical right parties.](https://www.tandfonline.com/doi/full/10.1080/01402382.2024.2341352)
-(2024) With Heike Klüver.*West European Politics.*
+(2024) With Heike Klüver. *West European Politics.*
 
 [The Mobilizing Effect of Affective and Spatial Polarization. Evidence from Europe.](https://doi.org/10.1177/00104140231194059)
-(2024)*Comparative Political Studies.*
+(2024) *Comparative Political Studies.*
 
 
 [The electoral consequences of policy-making in coalition governments.](https://journals.sagepub.com/doi/10.1177/20531680231188266)
 (2023) With Heike Klüver and Anthea Alberto. *Research & Politics.*
 
 [Do Politicians Discriminate Against Constituents with an Immigration Background? Field Experimental Evidence from Germany.](https://www.journals.uchicago.edu/doi/10.1086/716293)
-(2022) With Jeyhun Alizade.*The Journal of Politics.*
+(2022) With Jeyhun Alizade. *The Journal of Politics.*
 
 <!-- ## Accepted for Publication -->
 ### Book Chapters
 
-Understanding pledge-making in coalition agreements: Evidence from the COALITIONPOLICY Dataset. (Forthcoming). With Heike Klüver. In: T. Bräuninger & M. Debus (Eds.), Handbook on Coalition Politics. Cheltenham: Edward Elgar Publishing.
+*Understanding pledge-making in coalition agreements: Evidence from the COALITIONPOLICY Dataset.* (Forthcoming). With Heike Klüver. In: T. Bräuninger & M. Debus (Eds.), Handbook on Coalition Politics. Cheltenham: Edward Elgar Publishing.
 
 ## Working Papers Under Review
 
