@@ -6,6 +6,9 @@ author_profile: true
 
 ## Publications
 
+### Peer-Reviewed Articles
+
+
 [Local Newspaper Decline and Political Polarization – Evidence from a Multi-Party Setting.](https://doi.org/10.1017/S0007123424000243)
 (2024) With Hanno Hilbig, Sascha Riaz and Philipp Tillmann. *British Journal of Political Science.* 
 
@@ -23,7 +26,9 @@ author_profile: true
 (2022) With Jeyhun Alizade.*The Journal of Politics.*
 
 <!-- ## Accepted for Publication -->
+### Book Chapters
 
+Understanding pledge-making in coalition agreements: Evidence from the COALITIONPOLICY Dataset. (Forthcoming). With Heike Klüver. In: T. Bräuninger & M. Debus (Eds.), Handbook on Coalition Politics. Cheltenham: Edward Elgar Publishing.
 
 ## Working Papers Under Review
 
