@@ -8,6 +8,11 @@ author_profile: true
 
 ### Peer-Reviewed Articles
 
+*The Electoral Consequences of New Political Actors: Evidence from the German Greens.* With Tom Arend and Antonio Valentim.
+ Cond. Accepted at *British Journal of Political Science.*
+
+*A Peril to Pluralism? How Crimes Against Politicians Undermine Local Democratic Representation.* With Jeyhun Alizade, Marius Grünewald, Thomas Tichelbäcker.
+ [OSF Preprint](https://osf.io/rnf4d/). Cond. Accepted at *European Journal of Political Research.*
 
 [Local Newspaper Decline and Political Polarization – Evidence from a Multi-Party Setting.](https://doi.org/10.1017/S0007123424000243)
 (2024) With Hanno Hilbig, Sascha Riaz and Philipp Tillmann. *British Journal of Political Science.* 
@@ -36,9 +41,6 @@ author_profile: true
 
 <!--  *Coalition cabinets, radical right parties and government policy: Why coalition governments go tough on immigration.* (With Heike Klüver). -->
 
-*The Electoral Consequences of New Political Actors: Evidence from the German Greens.* With Tom Arend, Antonio Valentim.
-
-*A Peril to Pluralism? How Crimes Against Politicians Undermine Local Democratic Representation.* With Jeyhun Alizade, Marius Grünewald, Thomas Tichelbäcker. [OSF Preprint](https://osf.io/rnf4d/)
 
 *The Making and Breaking of Policy Promises in Coalition Government.* (With Heike Klüver, Anthea Alberto).
 
