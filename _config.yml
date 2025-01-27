@@ -35,7 +35,7 @@ plugins:
 # Author information
 author:
   name   : "Dr. Fabio Ellger"
-  avatar : "/assets/images/Foto_Ellger.jpg"
+  avatar : "/assets/images/Foto_Ellger.png"
   bio    : "Postdoctoral Research Fellow\nTransformations of Democracy Unit\nWZB Berlin Social Science Center\nfabio.ellger[at]wzb.eu"
   links:
     - label: "[Curriculum Vitae]"
