@@ -7,7 +7,8 @@ author_profile: true
 
 I am a Postdoctoral Research Fellow at the [WZB Transformations of Democracy Unit](https://www.wzb.eu/en/research/dynamics-of-political-systems/transformations-of-democracy), directed by Daniel Ziblatt. 
 I am interested in Comparative Politics and Political Behavior, with a focus on challenges to contemporary democracies. 
-My primary research areas cover democratic representation, participation and voter mobilization, as well as societal and electoral polarization. I study the emergence of these phenomena, as well as their implications for policy-making and democratic resilience.  
+My primary research areas cover democratic representation, participation and voter mobilization. 
+I also study the emergence of societal and electoral polarization, as well as their implications for democratic governance and resilience.  
 
 As a postdoc, I have been a research fellow at University of Oxford's Nuffield College (Summer 2024) and Harvard University's [Center for European Studies](https://ces.fas.harvard.edu/people/fabio-ellger) (Fall 2022). 
 In 2022, I also obtained my doctoral degree at the [Chair of Comparative Political Behavior](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comparative-political-behavior/team/team-comparative-political-behavior) at Humboldt University Berlin and graduated from [DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics/people/Alumni) -- a joint PhD program of Humboldt University and the Hertie School.
