@@ -36,8 +36,6 @@ author_profile: true
 
 ## Working Papers 
 
-<!-- *Local Newspaper Decline and Political Polarization in Multi-Party Systems.* (With Hanno Hilbig, Sascha Riaz and Philipp Tillmann). -->
-
 <!--  *Coalition cabinets, radical right parties and government policy: Why coalition governments go tough on immigration.* (With Heike Klüver). -->
 
 *Political Attacks and Electoral Consequences: The Impact of Crimes Against Democratic Representatives*
