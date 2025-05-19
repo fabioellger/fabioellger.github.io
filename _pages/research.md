@@ -11,8 +11,7 @@ author_profile: true
 *The Electoral Consequences of New Political Actors: Evidence from the German Greens.* With Tom Arend and Antonio Valentim.
  Cond. Accepted at *British Journal of Political Science.*
 
-*Does Political Violence Undermine Descriptive Representation? The Case of Women in Politics.* With Jeyhun Alizade, Marius Grünewald, Thomas Tichelbäcker.
- [OSF Preprint](https://osf.io/rnf4d/). Cond. Accepted at *European Journal of Political Research.*
+[Does Political Violence Undermine Descriptive Representation? The Case of Women in Politics.](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.70017) (2025) With Jeyhun Alizade, Marius Grünewald, Thomas Tichelbaecker.  *European Journal of Political Research.*
 
 [Local Newspaper Decline and Political Polarization – Evidence from a Multi-Party Setting.](https://doi.org/10.1017/S0007123424000243)
 (2024) With Hanno Hilbig, Sascha Riaz and Philipp Tillmann. *British Journal of Political Science.* 
@@ -35,23 +34,25 @@ author_profile: true
 
 *Understanding pledge-making in coalition agreements: Evidence from the COALITIONPOLICY Dataset.* (Forthcoming). With Heike Klüver. In: T. Bräuninger & M. Debus (Eds.), Handbook on Coalition Politics. Cheltenham: Edward Elgar Publishing.
 
-## Working Papers Under Review
+## Working Papers 
 
 <!-- *Local Newspaper Decline and Political Polarization in Multi-Party Systems.* (With Hanno Hilbig, Sascha Riaz and Philipp Tillmann). -->
 
 <!--  *Coalition cabinets, radical right parties and government policy: Why coalition governments go tough on immigration.* (With Heike Klüver). -->
 
+*Political Attacks and Electoral Consequences: The Impact of Crimes Against Democratic Representatives*
+
+*Who Is the Volk? Rhetorical Cleavages in German Parliamentary Discourse, 1867–1918* With Daniel Ziblatt, Caterina Chiopris.
 
 *The Making and Breaking of Policy Promises in Coalition Government.* (With Heike Klüver, Anthea Alberto).
 
 
-## Projects in Progress
+
+<!--  ## Projects in Progress  -->
 
 <!-- *Do Covid-19 Restrictions Cause more Crime against Political Representatives?* -->
 
-*The Electoral Consequences of Political Crime. New Evidence on Germany.*
 
-*A Common Understanding of Democracy: Evidence from 19th century Parliamentary Debates* With Daniel Ziblatt, Caterina Chiopris, Brian Rathbun.
 
-*Does the Politicization of Constitutional Courts affect Support for the Rule of Law?* With Heiko Giebler, Sebastian Hellmeier, Daniel Ziblatt.
+<!-- *Does the Politicization of Constitutional Courts affect Support for the Rule of Law?* With Heiko Giebler, Sebastian Hellmeier, Daniel Ziblatt. -->
 
