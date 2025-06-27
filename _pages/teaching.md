@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Independent Teaching:
+## Seminars:
 
 ### Summer Term 2021
 
@@ -14,8 +14,7 @@ Political Polarization in Established Democracies. Humboldt University Berlin. S
 
 Democratic Responsiveness and Representation: Introduction to Institutional and Behavioral Approaches. Humboldt University Berlin. Syllabus on [Moodle.](https://moodle.hu-berlin.de/course/view.php?id=93605)
 
-## Teaching Assistance:
-
+## Computer Lab Teaching Assistance:
 
 ### Winter Term 2019
 
