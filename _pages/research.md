@@ -40,9 +40,13 @@ author_profile: true
 
 *Political Attacks and Electoral Consequences: The Impact of Crimes Against Democratic Representatives*
 
-*Who Is the Volk? Rhetorical Cleavages in German Parliamentary Discourse, 1867–1918* With Daniel Ziblatt, Caterina Chiopris.
+*Who Is the Volk? Rhetorical Cleavages in German Parliamentary Discourse, 1867–1918.* With Caterina Chiopris, Daniel Ziblatt.
 
-*The Making and Breaking of Policy Promises in Coalition Government.* (With Heike Klüver, Anthea Alberto).
+*How Framing Shapes Anti-Far-Right Mobilization.* With Jeyhun Alizade.
+
+*Information-seeking and integration across neutral and political domains.* With Janice Ngiam.
+
+*The Making and Breaking of Policy Promises in Coalition Government.* With Heike Klüver, Anthea Alberto.
 
 
 
