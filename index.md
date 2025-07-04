@@ -15,7 +15,7 @@ In 2022, I obtained my doctoral degree at the [Chair of Comparative Political Be
 
 My work has been published in journals such as the _Journal of Politics_, _British Journal of Political Science_, _Comparative Political Studies_, and _West European Politics_. 
 In my research, I employ a broad range of empirical methods, such as field and survey experiments, quasi-experimental designs, and quantitative text analyses with large language models.
-For a comprehensive overview of my ongoing projects and previous publications, please visit my [Publications & Research](/research/) page.
+For a comprehensive overview of my ongoing projects and previous publications, please visit my [Research](/research/) page.
 
  I also enjoy [teaching](/teaching/) classes on political behavior, research design and applied research methods.
 
