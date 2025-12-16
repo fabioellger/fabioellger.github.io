@@ -8,8 +8,7 @@ author_profile: true
 
 ### Peer-Reviewed Articles
 
-*The Electoral Consequences of New Political Actors: Evidence from the German Greens.* With Tom Arend and Antonio Valentim.
- Cond. Accepted at *British Journal of Political Science.*
+[*Green Party Entry and Conservative Backlash: Evidence from Germany.*](https://doi.org/10.1017/S0007123425100628) With Tom Arend and Antonio Valentim. *British Journal of Political Science*.
 
 [Does Political Violence Undermine Descriptive Representation? The Case of Women in Politics.](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.70017) (2025) With Jeyhun Alizade, Marius Grünewald, Thomas Tichelbaecker.  *European Journal of Political Research.*
 
