@@ -33,7 +33,8 @@ author_profile: true
 <!-- ## Accepted for Publication -->
 ### Book Chapters
 
-*Understanding pledge-making in coalition agreements: Evidence from the COALITIONPOLICY Dataset.* (Forthcoming). With Heike Klüver. In: T. Bräuninger & M. Debus (Eds.), Handbook on Coalition Politics. Cheltenham: Edward Elgar Publishing.
+[Understanding pledge-making in coalition agreements: Evidence from the COALITIONPOLICY Dataset.](https://doi.org/10.4337/9781803929569.00030)  
+With Heike Klüver. In: T. Bräuninger & M. Debus (eds.), *Handbook on Coalition Politics*. Cheltenham: Edward Elgar Publishing.
 
 ## Working Papers 
 
