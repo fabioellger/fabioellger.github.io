@@ -8,7 +8,7 @@ author_profile: true
 
 ### Peer-Reviewed Articles
 
-[*Green Party Entry and Conservative Backlash: Evidence from Germany.*](https://doi.org/10.1017/S0007123425100628) With Tom Arend and Antonio Valentim. *British Journal of Political Science*.
+[*Green Party Entry and Conservative Backlash: Evidence from Germany.*](https://doi.org/10.1017/S0007123425100628) (2025) With Tom Arend and Antonio Valentim. *British Journal of Political Science*.
 
 [Does Political Violence Undermine Descriptive Representation? The Case of Women in Politics.](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.70017) (2025) With Jeyhun Alizade, Marius Grünewald, Thomas Tichelbaecker.  *European Journal of Political Research.*
 
@@ -16,7 +16,7 @@ author_profile: true
 (2024) With Hanno Hilbig, Sascha Riaz and Philipp Tillmann. *British Journal of Political Science.* 
 
 [Adopting restriction: How coalition governments respond to radical right parties.](https://www.tandfonline.com/doi/full/10.1080/01402382.2024.2341352)
-(2024) With Heike Klüver. *West European Politics.*
+(2024) With Heike Klüver. *West European Politics.*  
 **Gordon Smith and Vincent Wright Memorial Prize (2025)**.
 
 [The Mobilizing Effect of Affective and Spatial Polarization. Evidence from Europe.](https://doi.org/10.1177/00104140231194059)
