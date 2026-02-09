@@ -14,7 +14,8 @@ As a postdoc, I visited Nuffield College at the University of Oxford (Summer 202
 In 2022, I obtained my doctoral degree at the [Chair of Comparative Political Behavior](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comparative-political-behavior/team/team-comparative-political-behavior) of Humboldt University Berlin and graduated from [DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics/people/Alumni) -- a joint PhD program of Humboldt University and the Hertie School.
 
 My work has been published in leading peer-reviewed journals, including  the __Journal of Politics__, __British Journal of Political Science__, __Comparative Political Studies__, and __West European Politics__.
- My research has received recognition in the form of the _Gordon Smith and Vincent Wright Memorial Prize (2025)_ for outstanding work appearing in West European Politics
+In 2025, my research was awarded the _Gordon Smith and Vincent Wright Memorial Prize_ for outstanding work appearing in West European Politics.
+
 Methodologically, I employ field and survey experiments, quasi-experimental designs, and quantitative text analysis using large language models.
 For a comprehensive overview of my ongoing projects and previous publications, please visit my [Research](/research/) page.
 
