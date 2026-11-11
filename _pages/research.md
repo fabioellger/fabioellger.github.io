@@ -41,6 +41,10 @@ author_profile: true
 [Understanding pledge-making in coalition agreements: Evidence from the COALITIONPOLICY Dataset.](https://doi.org/10.4337/9781803929569.00030)  
 With Heike Klüver. In: T. Bräuninger & M. Debus (eds.), *Handbook on Coalition Politics*. Cheltenham: Edward Elgar Publishing.
 
+### Policy Reports
+
+[Wie Wahlen gewonnen werden. Eine vergleichende Analyse von Mitte-links-Erfolgen in Europa und Nordamerika](https://www.boell.de/de/2026/07/02/wie-wahlen-gewonnen-werden). (2026) With Sebastian U. Bukow. *Heinrich-Böll-Stiftung*.
+
 ## Working Papers 
 
 <!--  *Coalition cabinets, radical right parties and government policy: Why coalition governments go tough on immigration.* (With Heike Klüver). -->
