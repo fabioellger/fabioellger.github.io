@@ -37,6 +37,12 @@ author:
     - label: "[Twitter]"
       icon: "fab fa-twitter"
       url: "https://twitter.com/fabioellger"
+    - label: "[Bluesky]"
+      icon: "fab fa-bluesky"
+      url: "https://bsky.app/profile/fabioellger.bsky.social"
+    - label: "[LinkedIn]"
+      icon: "fab fa-linkedin"
+      url: "https://de.linkedin.com/in/fabio-ellger-755255383/de"
 
 # Footer
 footer:
