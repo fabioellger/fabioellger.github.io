@@ -1,5 +1,4 @@
 ---
-title: "Democracy and political behavior"
 layout: single
 author_profile: true
 ---
