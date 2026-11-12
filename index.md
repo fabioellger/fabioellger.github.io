@@ -17,4 +17,4 @@ My work has appeared in *The Journal of Politics*, *British Journal of Political
 
 I also [teach](/teaching/) classes on political behavior, research design, and applied research methods.
 
-[Download my CV](https://www.fabioellger.com/assets/docs/CV_Online_2025_v1.pdf)
+[Download my CV](/assets/docs/cv.pdf)
