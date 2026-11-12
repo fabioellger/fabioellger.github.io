@@ -49,9 +49,9 @@ With Heike Klüver. In: T. Bräuninger & M. Debus (eds.), *Handbook on Coalition
 
 <!--  *Coalition cabinets, radical right parties and government policy: Why coalition governments go tough on immigration.* (With Heike Klüver). -->
 
-*Political Attacks and Electoral Consequences: The Impact of Crimes Against Democratic Representatives*
+*When Politics Turns Violent: The Electoral Implications of Political Crime.*
 
-*Who Is the Volk? Rhetorical Cleavages in German Parliamentary Discourse, 1867–1918.* With Caterina Chiopris, Daniel Ziblatt.
+*Who Owned the People? “Das Volk” in German Parliamentary Discourse, 1867–1918.* With Caterina Chiopris, Daniel Ziblatt.
 
 *How Framing Shapes Anti-Far-Right Mobilization.* With Jeyhun Alizade.
 
